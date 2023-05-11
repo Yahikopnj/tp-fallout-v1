@@ -1,0 +1,103 @@
+@font-face {
+    font-family: "light";
+    src: url(../tpFallout/statics/dafont/roboto/Roboto-Light.ttf); 
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(../tpFallout/statics/dafont/roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: "thin";
+    src: url(../tpFallout/statics/dafont/roboto/Roboto-Thin.ttf);
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(../tpFallout/statics/dafont/roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "italic";
+    src: url(../tpFallout/statics/dafont/roboto/Roboto-Italic.ttf);
+}
+
+.jaune76 {
+    font-family: "thin";
+    color: #f8b600;
+    font-family: "italic";
+
+}
+ul {
+    font-family: "thin";
+    color: #2c2c2c;
+    font-size: 40px;
+}
+
+header {
+    margin: 40px;
+    font-size: 40px;
+
+}
+
+main {
+margin: 250px;
+}
+
+
+#stack {
+    font-family: "regular";
+    font-size: 20px;
+    color: #2c2c2c;
+    margin: 40px;
+}
+
+.textejaune{
+    color: #f8b600;
+    font-family: "italic";
+}
+
+.textegris {
+    font-family: "thin";
+    color: #2c2c2c;
+    font-size: 30px;
+}
+
+#liste {
+    font-size: 20px;
+    padding: none;
+    font-family: "regular";
+}
+
+footer {
+    font-size: 20px;
+    margin: 40px;
+}
+
+.tab {
+    margin: 40px;
+}
+
+.textegri {
+    font-family: "thin";
+    color: #2c2c2c;
+}
+
+#marge {
+    position: relative; left: -1em
+
+}
+
+.enbas {
+    font-family: "bold";
+    font-family: "italic";
+}
+
+#foot {
+    display: flex;
+    justify-content: center;
+}
+#enbas {
+    font-family: "bold";
+}
